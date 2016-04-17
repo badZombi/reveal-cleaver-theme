@@ -218,7 +218,7 @@ based on dark.css by Ivan Sagalaev
 pre code {
   display: block; padding: 0.5em;
   background: #3F3F3F;
-  color: #DCDCDC;
+  color: #847A7A;
 }
 
 pre .keyword,
@@ -323,7 +323,7 @@ pre .tex .formula {
   opacity: 0.5;
 }
 code {
-  background-color: #3F3F3F !important;
+  background-color: #847A7A !important;
 }
 
 /*********************************************
