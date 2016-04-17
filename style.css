@@ -340,3 +340,7 @@ code {
 .hljs-string, .hljs-doctag{
   color:#14FF40;
 }
+
+.reveal strong, .reveal b {
+    color: red;
+}
