@@ -1,5 +1,7 @@
-reveal-cleaver-theme
+reveal-cleaver-theme (modified)
 ================
+
+* Edited to have a few minor color changes. 
 
 [Reveal.js](https://github.com/hakimel/reveal.js/) theme for [cleaver](https://github.com/jdan/cleaver). Take the best of both worlds!
 
